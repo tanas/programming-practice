@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+	printf("no diff");
+	printf("no diff");
+	printf("div in new");
+	printf("div in new");
+	return 0;
+}

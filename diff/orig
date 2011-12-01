@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+	printf("no diff");
+	printf("dif in orig");
+	printf("no diff");
+	return 0;
+}
